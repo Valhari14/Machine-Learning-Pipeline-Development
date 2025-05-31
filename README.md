@@ -23,6 +23,10 @@ This repository contains the implementation and documentation of a Bachelor’s 
 - Ensure reproducibility, interpretability, and scalability.  
 - Support deployment through exportable and containerized models.
 
+  ## **Pipeline Architecture**
+
+![System Architecture](assets/architecture.png)
+
 ## 🛠️ **Tools and Technologies Used**
 
 | Component            | Technology             | Purpose                                                                 |
